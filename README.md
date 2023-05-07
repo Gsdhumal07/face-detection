@@ -1,7 +1,10 @@
-Technology Used
+# Technology Used
+
 ⮚ We are using our core platform as python which is one of the best and easiest programming languages.
+
 ⮚ We used supporting editors such as PyCharm. It is one of the best editors for most of the programming processes.
-⮚ Open CV: This is a library used for image recognition, image processing and video capture. Thus, the main function of the 
+
+## Open CV: This is a library used for image recognition, image processing and video capture. Thus, the main function of the 
 system i.e., face detection is carried out using this library.
 ⮚ Pillow: This module collectively helps in making GUI. The interface that we see on running the program is built with help 
 of this module.
