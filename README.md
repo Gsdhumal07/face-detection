@@ -17,7 +17,8 @@
            faces using in-built python libraries.
 ## Wheel: 
         ⮚ It allow for faster installation in the package distribution process. Whenever we install anything in python wheel 
-           makes its faster and efficient.
+           makes its faster and efficient
+           It inhance the speed of the package installation of package.
 
 ## Dlib:
         ⮚ This machine learning package is used to detect the faces. It functions same as that of OpenCV and helps in image 
